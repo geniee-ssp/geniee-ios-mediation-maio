@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationMaio",
-            url: "https://github.com/unigeniee/geniee-ios-mediation-maio/releases/download/8.3.100/GenieeMediationMaio.8.3.1.1.zip",
-            checksum: "64263d6ec23b9ee68457401271a22bb64f928097d71f5464caaf726a830eab9e"
+            url: "https://github.com/unigeniee/geniee-ios-mediation-maio/releases/download/2.2.100/GenieeMediationMaio.2.2.1.0.zip",
+            checksum: "8697224ca775ea5e5f1ad6288bd1b26149fb8e1a97d6b5d7980d4516b02c647a"
         )
     ]
 )
