@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/geniee-ssp/swift-package-manager-geniee-ios-sdk.git",
-            from: "8.4.3"
+            from: "8.5.1"
         ),
         .package(
             url: "https://github.com/imobile/MaioSDK-v2-iOS.git",
@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationMaio",
-            url: "https://github.com/geniee-ssp/geniee-ios-mediation-maio/releases/download/2.2.101/GenieeMediationMaio.2.2.1.0.zip",
-            checksum: "67b348d18b6b3f6b2cca4e0f442da84e4e37115959f0bfeea585e24baf1740d3"
+            url: "https://github.com/geniee-ssp/geniee-ios-mediation-maio/releases/download/2.2.102/GenieeMediationMaio.2.2.1.2.zip",
+            checksum: "9e27fdf5c042b03231131bc64fcb740ee4bdb599ae12fe5be13990f96d798b06"
         )
     ]
 )
